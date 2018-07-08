@@ -3,6 +3,7 @@
   padding: 0;
   border: 0;
   box-sizing: border-box;
+  font-family: 'Merriweather', serif;
 }
 
 body {
@@ -16,6 +17,7 @@ body {
 
 main.container {
   background: white;
+  font-size: 14px
 }
 
 header {
@@ -105,6 +107,7 @@ section.home-final img {
 
 footer {
   background: black;
+  padding: 20px 0px
 }
 
 footer.container {
